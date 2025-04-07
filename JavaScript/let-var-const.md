@@ -34,3 +34,4 @@ const c = 10;
 c = 20; // ❌ Error (can't reinitialize a const)
 
 
+```
