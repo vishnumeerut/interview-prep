@@ -8,7 +8,7 @@
 **`null`** is explicitly assigned to a variable.
   - Indicates **intentional absence of value**.
 
-### ✅ Example
+## 💻 Example Code:
 
 ```javascript
 let a;
