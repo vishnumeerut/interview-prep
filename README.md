@@ -37,7 +37,7 @@ Each `.md` file in a folder includes:
 - 💡 Code snippets
 - 🚀 Summary
 
-Example: [let-var-const.md](./javascript/let-var-const.md)
+Example: [let-var-const.md](./JavaScript/let-var-const.md)
 
 ---
 
