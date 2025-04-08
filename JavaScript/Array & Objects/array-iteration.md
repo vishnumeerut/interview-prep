@@ -1,6 +1,6 @@
 # 🔄 Different Ways to Iterate Over an Array in JavaScript
 
-JavaScript provides multiple ways to loop through an array. Each has its own use case depending on what you're trying to do.
+JavaScript provides multiple ways to loop through an array. Each has its own use case depending on what you're trying to do...
 
 ---
 
