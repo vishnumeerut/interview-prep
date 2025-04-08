@@ -1,6 +1,6 @@
 # 🔁 Difference Between `forEach()` and `map()` in JavaScript
 
-Both `forEach()` and `map()` are used to loop through arrays, but they serve different purposes.
+Both `forEach()` and `map()` are used to loop through arrays, but they serve different purposes...
 
 ---
 
