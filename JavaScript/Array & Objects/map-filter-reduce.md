@@ -1,6 +1,6 @@
 # 🔁 JavaScript Array Methods: `map()`, `filter()`, and `reduce()`
 
-These methods are powerful tools for transforming, filtering, and summarizing data in arrays.
+These methods are powerful tools for transforming, filtering, and summarizing data in arrays...
 
 ---
 
