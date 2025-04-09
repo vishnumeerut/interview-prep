@@ -1,4 +1,4 @@
-# 🔄 Synchronous vs Asynchronous Programming in JavaScript
+# 🔄 Synchronous vs Asynchronous Programming in JavaScript.
 
 ## ❓ What’s the Difference?
 
