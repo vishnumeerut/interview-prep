@@ -4,7 +4,7 @@
 
 **Throttling** is a technique to **limit the number of times a function can be executed** over time.
 
-It ensures that a function runs **at most once every X milliseconds**, no matter how often an event is triggered.
+It ensures that a function runs **at most once every X milliseconds**, no matter how often an event is triggered...
 
 ---
 
