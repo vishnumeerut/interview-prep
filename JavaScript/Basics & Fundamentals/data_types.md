@@ -35,7 +35,7 @@
 
 7. **Symbol** – Unique and immutable value  
 
-- To create unique keys in objects.
+> To create unique keys in objects..
 
    ```js
     const id1 = Symbol("userId");
