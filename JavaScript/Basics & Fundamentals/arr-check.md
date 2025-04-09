@@ -20,7 +20,7 @@
 3. **Object.prototype.toString.call(variable)**   
    ```js
    const arr = [1, 2, 3];
-   console.log(Object.prototype.toString.call(arr).slice(8, -1)); // "[object Array]"
+   console.log(Object.prototype.toString.call(arr).slice(8, -1)); // "Array"
    ```
 
     
