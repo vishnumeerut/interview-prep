@@ -2,7 +2,7 @@
 
 - A **Higher-Order Function** is a function that takes another function as an argument,      or returns a function from functions.
 
-- In JavaScript, functions are **first-class citizens**, meaning they can be assigned to variables, passed as arguments, and returned from other functions.
+- In JavaScript, functions are **first-class citizens**, meaning they can be assigned to variables, passed as arguments, and returned from other functions...
 
 - Common examples of higher-order functions: `map()`, `filter()`, `reduce()`, `forEach()`.
 
