@@ -26,7 +26,7 @@ It can refer to **different values** depending on **how** and **where** the func
 ### 🔹 Global Scope
 
 The value of this is replaceable by window object in non-strict mode.
-due to **this substitution** algorithm.
+due to **this substitution** algorithm...
 
 
 ```js
