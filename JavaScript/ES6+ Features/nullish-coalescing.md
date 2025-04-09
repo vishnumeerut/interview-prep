@@ -10,16 +10,6 @@ The **nullish coalescing operator (`??`)** returns the **right-hand operand** on
 
 ---
 
-## 🔧 Syntax
-
-```js
-let result = value ?? fallback;
-
-
-console.log(0 || "Vishnu") // Vishnu
-console.log(0 ?? "Vishnu") // 0
-```
-
 ## ⚖️ `??` vs `||`
 
 | Expression             | `||` Result     | `??` Result    |
@@ -32,4 +22,17 @@ console.log(0 ?? "Vishnu") // 0
 
 
 ✅ || checks for `falsy values`.
-✅ ?? checks only for `null` or `undefined`.
+✅ ?? checks only for `null` or `undefined`..
+
+
+## 🔧 Syntax
+
+```js
+let result = value ?? fallback;
+
+
+console.log(0 || "Vishnu") // Vishnu
+console.log(0 ?? "Vishnu") // 0
+```
+
+
