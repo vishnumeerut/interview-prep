@@ -7,7 +7,7 @@
 
 - `NaN` :->  NaN stands for **Not-a-Number**.
 - It is a special value in JavaScript used to represent a value that is not a valid number.
-- It is of type number, but it is not equal to any number, including itself.
+- It is of type number, but it is not equal to any number, including itself...
 
 
 
