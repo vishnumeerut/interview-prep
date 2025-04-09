@@ -2,7 +2,7 @@
 
 ## ✅ Purpose
 
-All three methods are used to **explicitly set the value of `this`** when calling a function.
+All three methods are used to **explicitly set the value of `this`** when calling a function..
 
 ---
 
