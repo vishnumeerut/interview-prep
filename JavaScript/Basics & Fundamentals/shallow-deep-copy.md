@@ -4,7 +4,7 @@
 
 **`shallow copy`** Copies only the first level of an object. Nested objects still refer to the same memory.
 
-**`deep copy`** Creates a complete independent clone of the object, including all nested structures.
+**`deep copy`** Creates a complete independent clone of the object, including all nested structures...
 
 ### ✅ Example
 
