@@ -6,7 +6,7 @@ It **remembers its outer scope**, even after the outer function has finished exe
 
 Closures allow you to **access variables** from an **outer function scope** even after the outer function has returned.
 
-- 💡 Closure's value is stored inside Heap Memory.
+- 💡 Closure's value is stored inside Heap Memory...
 
 
 ---
