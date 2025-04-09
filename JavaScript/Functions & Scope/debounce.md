@@ -16,7 +16,7 @@ To **optimize performance** when dealing with high-frequency events like:
 ### ✅ What is Debouncing?
 
 Debouncing means **delaying the function execution** until a certain time has passed **after the last event**.  
-Useful for operations that should only happen **once the user stops typing**.
+Useful for operations that should only happen **once the user stops typing**...
 
 
 
