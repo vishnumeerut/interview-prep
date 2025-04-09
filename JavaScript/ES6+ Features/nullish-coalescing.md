@@ -20,6 +20,7 @@ The **nullish coalescing operator (`??`)** returns the **right-hand operand** on
 | `null || "x"`          | `"x"`            | `"x"`          |
 | `undefined || "x"`     | `"x"`            | `"x"`          |
 
+---
 
 ✅ || checks for `falsy values`.
 ✅ ?? checks only for `null` or `undefined`..
