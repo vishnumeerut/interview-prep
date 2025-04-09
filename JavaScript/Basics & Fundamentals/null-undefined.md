@@ -2,7 +2,7 @@
 
 ### ✅ Definition
 
-**`undefined`** is automatically assigned to a variable that has been declared but not initialized with a value.
+**`undefined`** is automatically assigned to a variable that has been declared but not initialized with a value...
   - Indicates **absence of value initialization**.
 
 **`null`** is explicitly assigned to a variable.
