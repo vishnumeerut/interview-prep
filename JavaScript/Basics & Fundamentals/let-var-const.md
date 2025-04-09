@@ -4,7 +4,7 @@
 
 - `var`: Function-scoped, can be redeclared and updated.
 - `let`: Block-scoped, can be updated but not redeclared in the same scope.
-- `const`: Block-scoped, cannot be updated or redeclared.
+- `const`: Block-scoped, cannot be updated or redeclared...
 
 ## 💻 Example Code:
 
