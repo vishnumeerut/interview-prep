@@ -7,7 +7,7 @@
 - `Hoisting` :->  Hoisting is a phenomina where all the variables and functions can be execute before they initialize.
 - 💡 Only declarations are hoisted, initializations are not.
 
-- `Scope` :-> Scope refers to the current context in which variables, functions and objects are accessible within a program.
+- `Scope` :-> Scope refers to the current context in which variables, functions and objects are accessible within a program...
 
 ## 💻 Example Code:
 
