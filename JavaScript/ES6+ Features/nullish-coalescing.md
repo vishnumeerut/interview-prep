@@ -20,8 +20,16 @@ console.log(0 || "Vishnu") // Vishnu
 console.log(0 ?? "Vishnu") // 0
 ```
 
-⚖️ ?? vs ||
-| Expression | || Result | ?? Result | |----------------------|------------------|----------------| | "" || "default" | "default" | "" | | 0 || 5 | 5 | 0 | | false || true | true | false | | null || "x" | "x" | "x" | | undefined || "x" | "x" | "x" |
+## ⚖️ `??` vs `||`
+
+| Expression             | `||` Result     | `??` Result    |
+|------------------------|------------------|----------------|
+| `"" || "default"`      | `"default"`      | `""`           |
+| `0 || 5`               | `5`              | `0`            |
+| `false || true`        | `true`           | `false`        |
+| `null || "x"`          | `"x"`            | `"x"`          |
+| `undefined || "x"`     | `"x"`            | `"x"`          |
+
 
 ✅ || checks for `falsy values`.
 ✅ ?? checks only for `null` or `undefined`.
