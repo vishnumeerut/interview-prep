@@ -37,13 +37,3 @@
 
 
 
-
-What is ?
-
-
-
-
-
-When does NaN occur?
-
-Performing a mathematical operation that doesn't yield a valid number.
