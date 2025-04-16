@@ -1,4 +1,4 @@
-# Explain Hoisting in javaScript
+# How to check an array  in javaScript
 
 
 

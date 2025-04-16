@@ -21,8 +21,6 @@
     console.log(original.address.city); // "LA" - changed in original too!
 
 
-    let b = null;
-    console.log(b); // null
 
 ```
 
