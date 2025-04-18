@@ -21,6 +21,8 @@ Each topic includes:
 
 | Topic      | Folder Link                          |
 |------------|---------------------------------------|
+| 🧾 HTML         | [Go to HTML](./HTML)       |
+| 🎨 CSS          | [Go to CSS](./CSS)       |
 | 🟨 JavaScript   | [Go to JavaScript](./JavaScript)       |
 | ⚛️ ReactJS      | [Go to ReactJS](./Reactjs)             |
 | 🌐 Node.js      | [Go to Node.js](./Nodejs)             |
